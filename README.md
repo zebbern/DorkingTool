@@ -56,6 +56,30 @@ Make sure you have Python 3.6+ installed. Install required packages via pip:
 ```
 pip install -r requirements.txt
 ```
+If this command fails due to package conflicts or other issues, you can try installing each package individually using the following commands:
+```
+pip install requests==2.26.0
+pip install beautifulsoup4==4.10.0
+pip install validators==0.18.2
+pip install python-whois==0.7.3
+pip install scapy==2.4.5
+```
+Note: If you encounter issues with scapy, make sure you have the necessary permissions or try installing it with sudo pip install scapy (on macOS/Linux).
+
+Additional Backup Installation Instructions
+For users who continue to face issues with the installation, suggest they set up a virtual environment to avoid conflicts with their existing Python packages.
+
+Create a Virtual Environment (optional but recommended):
+```
+python -m venv ph4n70m_env
+source ph4n70m_env/bin/activate   # On macOS/Linux
+ph4n70m_env\Scripts\activate      # On Windows
+Install Dependencies in the Virtual Environment:
+```
+Then run
+```
+pip install -r requirements.txt
+```
 3. Run the Application
 ```
 python run.py
