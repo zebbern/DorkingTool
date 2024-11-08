@@ -1,6 +1,4 @@
-# PH4N70M - Dorking Tool
-PH4N70M - Dorking Tool | GUI-based Python tool designed to facilitate automated Google dorking
-# **PH4N70M - Advanced Dorking Tool**
+# **PH4N70M - Dorking Tool**
 ![PH4N70M Logo](https://path-to-your-logo.png) <!-- Optional: Add a logo image -->
 
 **PH4N70M** is a GUI-based Python tool that simplifies and automates Google dorking for penetration testers, security researchers, and anyone interested in advanced web searches. PH4N70M offers extensive proxy support, automated query management, live URL validation, and rich site information tools.
