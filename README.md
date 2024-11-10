@@ -8,6 +8,10 @@
 
 
 
+Run Dorking Scriot
+```
+python3 run.py
+```
 
 Scrape all dorks from exploitdb to structured files
 ```
