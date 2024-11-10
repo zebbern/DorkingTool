@@ -17,6 +17,10 @@ Scrape all dorks from exploitdb to structured files
 ```
 python3 exploitdb.py -i -j -s
 ```
+Scrape working proxies and test if they work then puts them in a txt
+```
+python3 prox.py
+```
 
 Acknowledgments
 This project was inspired by open-source dorking tools and built with a focus on simplicity, efficiency, and privacy.
