@@ -18,6 +18,9 @@ Scrape all dorks from exploitdb to structured files
 python3 exploitdb.py -i -j -s
 ```
 Scrape working proxies and test if they work then puts them in a txt
+
+- It will not stop before it got 100 working proxies
+
 ```
 python3 prox.py
 ```
