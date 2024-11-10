@@ -9,8 +9,10 @@
 
 
 
-
-
+Scrape all dorks from exploitdb to structured files
+```
+python3 exploitdb.py -i -j -s
+```
 
 Acknowledgments
 This project was inspired by open-source dorking tools and built with a focus on simplicity, efficiency, and privacy.
