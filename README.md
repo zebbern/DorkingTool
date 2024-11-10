@@ -8,7 +8,7 @@
 
 
 
-## Run Dorking Scriot
+## Run Dorking Script
 ```
 python3 run.py
 ```
