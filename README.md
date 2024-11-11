@@ -17,24 +17,6 @@ python3 run.py
 ```
 python3 exploitdb.py -i -j -s
 ```
-## Scrape working proxies and test if they work then puts them in a txt
-
-- It will not stop before it got 100 working proxies
-
-```
-python3 prox.py
-```
-Important Considerations:
-```
-Legal and Ethical Use:
-Ensure you comply with the terms of service of each proxy provider.
-Use the proxies responsibly and ethically.
-```
-Proxy Reliability and Security:
-```
-Public proxies can be unreliable and may pose security risks.
-Avoid using them for sensitive data or operations.
-```
 
 Acknowledgments
 This project was inspired by open-source dorking tools and built with a focus on simplicity, efficiency, and privacy.
