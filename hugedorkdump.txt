@@ -20934,3 +20934,4 @@ _news/news.php?id=
 “your password is” filetype:log
 ” -FrontPage-” ext:pwd inurl:(service | authors | administrators | users)
 ” inurl:”.php?cat=” intext:”/store/”
+admin/panel.index
